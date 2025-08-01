@@ -55,6 +55,4 @@ h1 /* the thing that says Hey I'm Wasif!*/ {
 
 .sidebar a:hover { /*this makes it so the icons light up blue when you hover over them, but in the future I want them to light up to the color of their actual logos*/
   color: #007bff;
-
-
 }
